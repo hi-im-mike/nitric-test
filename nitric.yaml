@@ -1,4 +1,4 @@
-name: nitric
+name: playx
 handlers:
 - functions/*.ts
 preview-features: []

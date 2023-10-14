@@ -10,8 +10,15 @@ Run: `iwr -useb get.scoop.sh | iex`
 [Visual Studio 2022 Community](https://visualstudio.microsoft.com/vs/community/)
 Must install "Desktop development with C++"
 
-[Nitric CLI](https://nitric.io/docs/installation)
+[Pulumi](https://www.pulumi.com/docs/install/)
+Nitric uses for cloud deploy automation
+run `pulumi login` and hit enter to login via browser
 
+[Docker](https://docs.docker.com/desktop/install/windows-install)
+Nitric uses for cloud deploy automation
+Make sure CPU Virtualization is on in BIOS
+
+[Nitric CLI](https://nitric.io/docs/installation) 
 
 ## Running this project
 
