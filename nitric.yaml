@@ -1,0 +1,4 @@
+name: nitric
+handlers:
+- functions/*.ts
+preview-features: []
