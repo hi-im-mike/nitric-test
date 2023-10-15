@@ -1,4 +1,4 @@
-name: mg-play
+name: dev
 provider: nitric/azure@0.32.0
 adminemail: yeet@gmail.com
 org: mike
